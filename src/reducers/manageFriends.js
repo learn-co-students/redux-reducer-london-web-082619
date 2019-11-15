@@ -9,3 +9,4 @@ export function manageFriends(state = {friends: []}, action){
             return state;
     }
 }
+//
